@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Ontologue: what is reality?
 ---
 
