@@ -1,4 +1,4 @@
 ---
-Ontologue: what is reality?
+Ready?: what is reality?
 ---
 
